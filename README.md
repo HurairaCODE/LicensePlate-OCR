@@ -13,4 +13,4 @@ python main.py
 
 ### Results
 
-![Detecting Plates in license](/1.jpg)
+![Detecting Plates in license](/1.png)
