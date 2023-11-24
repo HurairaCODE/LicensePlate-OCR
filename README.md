@@ -11,3 +11,6 @@ The trained model accurately identifies license plates in images. EasyOCR is the
 Run the license plate detection and OCR:
 python main.py
 
+### Results
+
+![Detecting Plates in license](/1.jpg)
